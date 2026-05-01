@@ -65,6 +65,10 @@
   --radius: 0.625rem;
   --background: oklch(1 0 0);
   --foreground: oklch(0.129 0.042 264.695);
+  --brand-green: oklch(0.42 0.09 155);
+  --brand-green-foreground: oklch(1 0 0);
+  --soft-white: oklch(1 0 0 / 0.85);
+  --card-grey: oklch(0.96 0.002 247);
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.129 0.042 264.695);
   --popover: oklch(1 0 0);
